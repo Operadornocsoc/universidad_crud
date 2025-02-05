@@ -1,3 +1,4 @@
+# app/schemas/aspirante.py
 from pydantic import BaseModel
 
 class AspiranteBase(BaseModel):
